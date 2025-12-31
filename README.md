@@ -35,8 +35,4 @@ reflect my commitment to continuous learning, professional growth, and creating 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## 📊 GitHub Stats
 
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alextorres04&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alextorres04&layout=compact&theme=radical)
