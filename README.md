@@ -1,11 +1,11 @@
-# Hi there 👋 I'm Alexander
+<p align="center">
+  <img src="https://www.insidehighered.com/sites/default/files/styles/max_650x650/public/2024-05/GettyImages-1490473438.jpg?itok=3ZP0Jkn2" alt="Banner" />
+</p>
 
+# Hi 👋, I'm Alexander
 
-## 👨‍💻 About Me Software Engineering student passionate about **data-driven solutions** and **Python development**. 
-I specialize in building efficient and scalable applications, applying best practices and agile methodologies. 
-My interests lie in **Data Analysis, Machine Learning, and Data Science**, where I aim to transform data into actionable insights and intelligent models. In this repository, I share academic, personal, and collaborative projects that 
-reflect my commitment to continuous learning, professional growth, and creating technology that delivers real value.
----
+A passionate **Software Engineer** focused on **Data Analysis, Machine Learning, Python Development, and Data Science**.
+
 
 ## 🛠️ Tech Stack
 
