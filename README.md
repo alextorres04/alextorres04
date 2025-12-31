@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://www.insidehighered.com/sites/default/files/styles/max_650x650/public/2024-05/GettyImages-1490473438.jpg?itok=3ZP0Jkn2" alt="Banner" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS_M2HzzwqwOxLNC8r6PSNfAv_66mtIJSN3Q&s" alt="Banner" />
 </p>
+
 
 # Hi 👋, I'm Alexander
 
