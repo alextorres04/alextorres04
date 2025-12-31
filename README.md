@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS_M2HzzwqwOxLNC8r6PSNfAv_66mtIJSN3Q&s" alt="Banner" />
+  <img src="https://planoamericano.com/wp-content/uploads/2025/06/Akira-2.webp" alt="Banner" />
 </p>
+
 
 
 # Hi 👋, I'm Alexander
